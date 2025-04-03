@@ -33,8 +33,8 @@ This project implements a comparative study of different activation functions (S
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/mnist-classification.git
-cd mnist-classification
+git clone https://github.com/justinrm/neural-network-example
+cd neural-network-example
 
 # Create a virtual environment (optional but recommended)
 python -m venv venv
@@ -49,7 +49,7 @@ pip install torch torchvision matplotlib numpy
 To run the complete experiment with all activation functions:
 
 ```bash
-python mnist_classification.py
+python neural-network-example.py
 ```
 
 This will:
