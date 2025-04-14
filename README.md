@@ -10,8 +10,6 @@ A comprehensive implementation of neural networks with different activation func
 
 This project implements a comparative study of different activation functions (Sigmoid, Tanh, and ReLU) in a simple feedforward neural network for MNIST digit classification. The code is structured following best practices for PyTorch projects and includes proper documentation, error handling, and visualization tools.
 
-![Activation Function Comparison](activation_function_comparison.png)
-
 ## Features
 
 - **Unified Neural Network Architecture**: A flexible neural network implementation that supports different activation functions
